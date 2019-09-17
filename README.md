@@ -56,3 +56,8 @@ This project - Data Aggregation, Big Data Analysis and Visualization - involves:
 |- Report.pdf <br>
 | <br>
 |- video.mp4 <br>
+
+<br>
+
+### Wordcloud generated with Tableau
+![](part3/Commoncrawl/Images/cc_coo.png)
